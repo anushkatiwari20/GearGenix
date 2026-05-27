@@ -100,8 +100,8 @@ python main.py
 
 | Name | Role | Roll No. / ID |
 |---|---|---|
-| Anshu Agrawal |  | EN23CS301158 |
-| Anushka Tiwari |  | EN23CS301176 |
+| Anshu Agrawal | Frontend and Database Integration | EN23CS301158 |
+| Anushka Tiwari | Backend, AI and Workflow | EN23CS301176 |
 
 ---
 
@@ -109,15 +109,21 @@ python main.py
 
 **Web UI — Chat Interface**
 
-![Web UI](screenshots/web-ui.png)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/65fe7934-a7be-4333-8b47-7ba5267528d9" />
+
 
 **Telegram Bot Conversation**
 
-![Telegram Bot](screenshots/telegram-bot.png)
+<img width="1402" height="634" alt="image" src="https://github.com/user-attachments/assets/885ee34d-d463-4c1f-bf89-7377221c5089" />
+<img width="1029" height="855" alt="Screenshot 2026-04-29 201534" src="https://github.com/user-attachments/assets/0ae879b1-919f-42e4-a7c2-7869321827db" />
+
 
 **Admin View**
 
-![Admin View](screenshots/admin-view.png)
+<img width="987" height="907" alt="Screenshot 2026-04-29 200807" src="https://github.com/user-attachments/assets/7bed15a2-c9bb-4d7a-94f2-c3359da3b895" />
+<img width="949" height="478" alt="Screenshot 2026-04-29 214319" src="https://github.com/user-attachments/assets/a49657da-3057-4196-afe2-600ca4d790f8" />
+
+
 
 ### Sample Conversation (Output)
 
