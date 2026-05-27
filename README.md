@@ -1,4 +1,4 @@
-# EquiBot — College Equipment Booking Bot
+# GearGenix — College Equipment Booking Bot
 
 An AI agent that lets college clubs and departments book shared equipment
 (projectors, microphones, speakers, laptops, etc.) through natural conversation.
