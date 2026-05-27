@@ -100,19 +100,12 @@ python main.py
 
 | Name | Role | Roll No. / ID |
 |---|---|---|
-| [Member 1] | [Role] | [ID] |
-| [Member 2] | [Role] | [ID] |
-| [Member 3] | [Role] | [ID] |
-| [Member 4] | [Role] | [ID] |
-
-> _Replace the placeholders above with your actual team details._
+| Anshu Agrawal |  | EN23CS301158 |
+| Anushka Tiwari |  | EN23CS301176 |
 
 ---
 
 ##  Project Screenshots / Output
-
-> _Add your screenshots to a `screenshots/` folder in the repo, then the images
-> below will display automatically. Replace the file names if yours differ._
 
 **Web UI — Chat Interface**
 
