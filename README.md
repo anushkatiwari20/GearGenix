@@ -11,7 +11,7 @@ both a **Telegram bot** and a **lightweight web UI**.
 
 ---
 
-## 🛠️ Technology Stack and Tools Used
+##  Technology Stack and Tools Used
 
 | Layer | Technology |
 |---|---|
@@ -27,29 +27,29 @@ both a **Telegram bot** and a **lightweight web UI**.
 
 ---
 
-## ✨ Features and Functionalities Implemented
+##  Features and Functionalities Implemented
 
-- 🤖 **Conversational AI agent** — understands plain-English requests using an
+-  **Conversational AI agent** — understands plain-English requests using an
   OpenAI function-calling (ReAct) loop; no rigid commands needed.
-- 💬 **Two interfaces** — chat via a **Telegram bot** or a **web UI**, both backed
+-  **Two interfaces** — chat via a **Telegram bot** or a **web UI**, both backed
   by the same engine.
-- 📋 **Equipment listing** — view all available equipment with live availability.
-- 🔎 **Availability check** — ask whether an item is free for a specific date and
+-  **Equipment listing** — view all available equipment with live availability.
+-  **Availability check** — ask whether an item is free for a specific date and
   time range.
-- 📅 **Smart booking** — create bookings with automatic **conflict detection** so
+-  **Smart booking** — create bookings with automatic **conflict detection** so
   two clubs can't double-book the same item.
-- 🗂️ **Booking management** — list a club's bookings, cancel a booking, and mark
+-  **Booking management** — list a club's bookings, cancel a booking, and mark
   equipment as returned.
-- 👮 **Admin view & authentication** — see who currently holds each item, gated
+-  **Admin view & authentication** — see who currently holds each item, gated
   behind an admin login.
-- 🧠 **Per-session memory** — the agent remembers the context of your conversation.
-- 🕐 **Timezone-aware** — date/time handled in IST to avoid false "past date" errors.
-- 🔄 **Auto-migration** — missing database columns are added automatically on startup.
-- 📱 **Responsive UI** — glassmorphism design with dark/light mode that works on mobile.
+-  **Per-session memory** — the agent remembers the context of your conversation.
+-  **Timezone-aware** — date/time handled in IST to avoid false "past date" errors.
+-  **Auto-migration** — missing database columns are added automatically on startup.
+-  **Responsive UI** — glassmorphism design with dark/light mode that works on mobile.
 
 ---
 
-## ⚙️ Installation / Execution Steps
+##  Installation / Execution Steps
 
 ### Prerequisites
 - Python 3.11+
@@ -96,7 +96,7 @@ python main.py
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 | Name | Role | Roll No. / ID |
 |---|---|---|
@@ -109,7 +109,7 @@ python main.py
 
 ---
 
-## 📸 Project Screenshots / Output
+##  Project Screenshots / Output
 
 > _Add your screenshots to a `screenshots/` folder in the repo, then the images
 > below will display automatically. Replace the file names if yours differ._
@@ -140,7 +140,7 @@ You:  Is the projector free tomorrow 3-5pm?
 Bot:  Yes! A projector is free tomorrow from 3:00 PM to 5:00 PM. Want me to book it?
 
 You:  Book a mic for Robotics Club on Friday 10am-12pm
-Bot:  ✅ Booked! Wireless Microphone reserved for Robotics Club
+Bot:  Booked! Wireless Microphone reserved for Robotics Club
       on Friday, 10:00 AM – 12:00 PM. Your booking ID is B012.
 
 You:  Cancel booking B012
@@ -149,7 +149,7 @@ Bot:  Done — booking B012 has been cancelled and the microphone is free again.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 GearGenix/
@@ -178,7 +178,7 @@ GearGenix/
 
 ---
 
-## 💡 Example Queries
+##  Example Queries
 
 | What you type | What happens |
 |---|---|
