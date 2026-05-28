@@ -17,13 +17,13 @@ both a **Telegram bot** and a **lightweight web UI**.
 |---|---|
 | **Language** | Python 3.11 |
 | **AI / Agent** | OpenAI API (function-calling, ReAct agent pattern) |
-| **Backend / API** | FastAPI, Uvicorn |
+| **Backend / API** | FastAPI |
 | **Chat Interface** | python-telegram-bot (Telegram), single-page web UI |
 | **Database** | PostgreSQL |
-| **ORM & Migrations** | SQLAlchemy, Alembic, psycopg2-binary |
-| **Frontend** | HTML, CSS, JavaScript (glassmorphism theme, dark/light mode, mobile-responsive) |
+| **ORM & Migrations** | SQLAlchemy|
+| **Frontend** | HTML, CSS, JavaScript |
 | **Configuration** | python-dotenv (environment variables) |
-| **Deployment** | Docker (Railway-ready Dockerfile) |
+
 
 ---
 
